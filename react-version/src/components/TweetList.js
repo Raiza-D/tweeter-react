@@ -19,7 +19,7 @@ function TweetList() {
               <span class="footer--actions">
                 <a href="#"><i class="fa fa-flag"></i></a>
                 <a href="#"><i class="fa fa-retweet"></i></a>
-                <a href="#"><i class="fa fa-heart"></i></a>'
+                <a href="#"><i class="fa fa-heart"></i></a>
               </span>
             </small></small></footer>
       </article>
